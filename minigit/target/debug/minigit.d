@@ -1,1 +1,0 @@
-/Users/andrewrittenhouse/Documents/rust_projs/minigit/target/debug/minigit: /Users/andrewrittenhouse/Documents/rust_projs/minigit/src/lib.rs /Users/andrewrittenhouse/Documents/rust_projs/minigit/src/main.rs
